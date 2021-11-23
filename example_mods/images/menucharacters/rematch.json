@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "slylogo",
+	"position": [
+		230,
+		170
+	],
+	"scale": 0.33,
+	"image": "ogmenu"
+}

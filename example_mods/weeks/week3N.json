@@ -1,0 +1,30 @@
+{
+	"storyName": "Nightmare Finale",
+	"hideFreeplay": false,
+	"weekBackground": "nightmare",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Nightmare",
+			"nightmaresly",
+			[
+				110,
+				31,
+				31
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Nightmare"
+}

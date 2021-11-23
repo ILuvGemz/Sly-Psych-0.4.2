@@ -1,0 +1,48 @@
+{
+	"storyName": "VS Sly",
+	"hideFreeplay": false,
+	"weekBackground": "sly",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"ver1",
+		""
+	],
+	"songs": [
+		[
+			"Wow",
+			"sly",
+			[
+				123,
+				56,
+				168
+			]
+		],
+		[
+			"Hoodie",
+			"sly",
+			[
+				123,
+				56,
+				168
+			]
+		],
+		[
+			"Quake",
+			"staticsly",
+			[
+				123,
+				56,
+				168
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "VS Sly"
+}

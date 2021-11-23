@@ -1,0 +1,57 @@
+{
+	"storyName": "VS Sly Classic",
+	"hideFreeplay": false,
+	"weekBackground": "SlyMall",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"sly",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Wow Classic",
+			"slyclassic",
+			[
+				112,
+				94,
+				125
+			]
+		],
+		[
+			"Hoodie Classic",
+			"slyclassic",
+			[
+				112,
+				94,
+				125
+			]
+		],
+		[
+			"Quake Classic",
+			"slyclassic",
+			[
+				112,
+				94,
+				125
+			]
+		],
+		[
+			"Demise Classic",
+			"slyclassic",
+			[
+				112,
+				94,
+				125
+			]
+		]
+	],
+	"weekName": "VS Sly Classic"
+}

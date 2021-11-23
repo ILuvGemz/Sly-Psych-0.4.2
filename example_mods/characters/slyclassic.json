@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-44,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "sly idle dance"
+		},
+		{
+			"offsets": [
+				-71,
+				15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sly Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-69,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sly Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-59,
+				15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sly Sing Note UP"
+		},
+		{
+			"offsets": [
+				-93,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sly Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sly_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "slyclassic",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		65,
+		122
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

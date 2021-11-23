@@ -1,0 +1,10 @@
+{
+	"idle_anim": "rogerlogo",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		189,
+		135
+	],
+	"scale": 0.41,
+	"image": "ogmenu"
+}
