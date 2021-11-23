@@ -1,6 +1,6 @@
 {
 	"storyName": "VS Sly 2",
-	"hideFreeplay": false,
+	"hideFreeplay": true,
 	"weekBackground": "extra",
 	"freeplayColor": [
 		146,
@@ -8,8 +8,7 @@
 		253
 	],
 	"weekBefore": "tutorial",
-	"startUnlocked": true,
-	"hideStoryMode": false,
+	"startUnlocked": false,
 	"weekCharacters": [
 		"",
 		"ver2",
@@ -17,7 +16,7 @@
 	],
 	"songs": [
 		[
-			"Sly",
+			"construction",
 			"sly",
 			[
 				51,
@@ -26,5 +25,6 @@
 			]
 		]
 	],
+	"hideStoryMode": false,
 	"weekName": "VS Sly 2"
 }

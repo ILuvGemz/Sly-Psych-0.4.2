@@ -2,14 +2,13 @@
 	"storyName": "Dreamatch",
 	"hideFreeplay": false,
 	"weekBackground": "drematch",
-	"weekBefore": "tutorial",
+	"weekBefore": "week1S",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
 	"startUnlocked": true,
-	"hideStoryMode": false,
 	"weekCharacters": [
 		"",
 		"rematch",
@@ -35,5 +34,6 @@
 			]
 		]
 	],
+	"hideStoryMode": false,
 	"weekName": "Dreamatch"
 }

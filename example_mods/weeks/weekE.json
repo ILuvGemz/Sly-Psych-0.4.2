@@ -7,9 +7,8 @@
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
-	"startUnlocked": true,
-	"hideStoryMode": true,
+	"weekBefore": "week3N",
+	"startUnlocked": false,
 	"weekCharacters": [
 		"sly",
 		"bf",
@@ -26,15 +25,6 @@
 			]
 		],
 		[
-			"Resonance",
-			"sly",
-			[
-				57,
-				83,
-				145
-			]
-		],
-		[
 			"Guns",
 			"sly",
 			[
@@ -44,17 +34,8 @@
 			]
 		],
 		[
-			"Nightmare Roger",
-			"nightmareroger",
-			[
-				57,
-				83,
-				145
-			]
-		],
-		[
 			"Quake Remix",
-			"staticsly",
+			"sly",
 			[
 				57,
 				83,
@@ -63,7 +44,7 @@
 		],
 		[
 			"Slyception",
-			"Bsly",
+			"nightmareroger",
 			[
 				57,
 				83,
@@ -71,5 +52,6 @@
 			]
 		]
 	],
+	"hideStoryMode": true,
 	"weekName": "Extras"
 }

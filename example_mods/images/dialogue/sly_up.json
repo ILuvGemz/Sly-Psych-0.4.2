@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "dialogue_sky_A",
+			"idle_offsets": [
+				0,
+				100
+			],
+			"idle_name": "dialogue_sky_A0004",
+			"anim": "Happy",
+			"loop_offsets": [
+				0,
+				100
+			]
+		},
+		{
+			"loop_name": "dialogue_sky_B",
+			"idle_offsets": [
+				-5,
+				105
+			],
+			"idle_name": "dialogue_sky_B0004",
+			"anim": "Frown",
+			"loop_offsets": [
+				-5,
+				105
+			]
+		},
+		{
+			"loop_name": "dialogue_sky_C",
+			"idle_offsets": [
+				-18,
+				106
+			],
+			"idle_name": "dialogue_sky_C0004",
+			"anim": "Sweat",
+			"loop_offsets": [
+				-18,
+				106
+			]
+		}
+	],
+	"image": "dialogue_sly"
+}
