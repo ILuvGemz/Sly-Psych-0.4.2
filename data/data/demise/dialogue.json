@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "It's funny to me you think I'd go down so easy."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep be bop bow."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "Bruh you're like half my size."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Your girl needs her a guy, not a baby."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "A",
+			"text": "And blue hair? I know mine is purple but blue is never the move, man."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "Maybe red is more your style once I'm finished with you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beep bo..."
+		},
+		{
+			"speed": 0.02,
+			"portrait": "sly",
+			"boxState": "angry",
+			"expression": "B",
+			"text": "Oh, I'm the douchebag? You humiliated me in front of everyone I know."
+		},
+		{
+			"speed": 0.02,
+			"portrait": "sly",
+			"boxState": "angry",
+			"expression": "B",
+			"text": "I'll humiliate you in front of who matters to you the most right now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beep beep beep?"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "sly",
+			"boxState": "angry",
+			"expression": "B",
+			"text": "Oh yeah I think so, you little shit!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "Let's get it, Mr. Blue Balls."
+		}
+	]
+}

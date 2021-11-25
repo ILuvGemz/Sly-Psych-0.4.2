@@ -1,0 +1,256 @@
+{
+	"dialogue": [
+		{
+			"expression": "C",
+			"text": ".   .   .",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "sly"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep Beep?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "B",
+			"text": "Damn.",
+			"boxState": "normal",
+			"speed": 0.09,
+			"portrait": "sly"
+		},
+		{
+			"expression": "B",
+			"text": "Y'know I thought for sure I had you this time.",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "sly"
+		},
+		{
+			"expression": "B",
+			"text": "I've been workin' on that one for weeks.",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "sly"
+		},
+		{
+			"expression": "talk",
+			"text": "Good to see you haven't changed a bit.",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "sly"
+		},
+		{
+			"expression": "talk",
+			"text": "It's alright, though. I've got a whole ass library of beats.",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "sly"
+		},
+		{
+			"expression": "talk",
+			"text": "I think you're really gonna like 'em.",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "sly"
+		},
+		{
+			"expression": "talk",
+			"text": "Here, pick one of these. Tell me which one you want.",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "sly"
+		},
+		{
+			"expression": "talk",
+			"text": "Hm. . . ",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "\"Divorce type beat\" sounds pretty tight.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "C",
+			"text": ".   .   .",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "sly"
+		},
+		{
+			"expression": "C",
+			"text": ".  .  .     did this little dude just speak words?",
+			"boxState": "normal",
+			"speed": 0.075,
+			"portrait": "sly"
+		},
+		{
+			"expression": "C",
+			"text": "Where the fuck am I?",
+			"boxState": "normal",
+			"speed": 0.075,
+			"portrait": "sly"
+		},
+		{
+			"expression": "C",
+			"text": "\"Divorce type beat\"? What the hell does that even mean?!",
+			"boxState": "normal",
+			"speed": 0.075,
+			"portrait": "sly"
+		},
+		{
+			"expression": "C",
+			"text": ".   .   .",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "sly"
+		},
+		{
+			"expression": "B",
+			"text": "wait a minute.",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "sly"
+		},
+		{
+			"expression": "B",
+			"text": "This isn't reality.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly"
+		},
+		{
+			"expression": "B",
+			"text": "You're not real.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly"
+		},
+		{
+			"expression": "B",
+			"text": "None of this is real.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly"
+		},
+		{
+			"expression": "B",
+			"text": "I'm in some kinda dream or some shit.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly"
+		},
+		{
+			"expression": "pissed",
+			"text": "Nah you on drugs hahaha.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "B",
+			"text": "Nope I'm definitely dreaming.",
+			"boxState": "normal",
+			"speed": 0.01,
+			"portrait": "sly"
+		},
+		{
+			"expression": "B",
+			"text": "Yo?",
+			"boxState": "normal",
+			"speed": 0.075,
+			"portrait": "sly"
+		},
+		{
+			"expression": "talk",
+			"text": "I just realized I'm in a dream!",
+			"boxState": "normal",
+			"speed": 0.02,
+			"portrait": "sly"
+		},
+		{
+			"expression": "talk",
+			"text": "This is crazy! I mean when was the last time you knew you were dreaming?",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "sly"
+		},
+		{
+			"expression": "talk",
+			"text": "Can I really do anything I want now?",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "sly"
+		},
+		{
+			"expression": "C",
+			"text": ".   .   .",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "sly"
+		},
+		{
+			"expression": "talk",
+			"text": "?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "B",
+			"text": "Hm   .  .  .",
+			"boxState": "normal",
+			"speed": 0.09,
+			"portrait": "sly"
+		},
+		{
+			"expression": "talk",
+			"text": "Y'know.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly"
+		},
+		{
+			"expression": "talk",
+			"text": "You're one of the toughest rappers in the game right now.",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "sly"
+		},
+		{
+			"expression": "talk",
+			"text": "Never in my life have I seen so much talent as much as you have.",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "sly"
+		},
+		{
+			"expression": "talk",
+			"text": "I know I might just barely beat you in a battle one day...",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "sly"
+		},
+		{
+			"expression": "C",
+			"text": ".   .   .",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "sly"
+		},
+		{
+			"expression": "B",
+			"text": "...but I'd just like to see you struggle against me just once.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly"
+		}
+	]
+}

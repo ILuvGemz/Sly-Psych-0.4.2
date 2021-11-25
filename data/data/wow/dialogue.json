@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What it do, big guy?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You taking your girlfriend out shopping?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop beep bee."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I see, I getcha. Good shit."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "Y'know you're no stranger to me."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "I've seen you around here plenty of times."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And you've got a pretty sick voice, homie."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep beepity?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hell yeah! You've got hella talent."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo, you should drop a beat right now."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm kinda feeling the flow."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Dope. I've been dying to jam with you for quite some time now."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "A",
+			"text": "Let's get it."
+		}
+	]
+}
