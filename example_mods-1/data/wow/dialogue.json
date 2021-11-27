@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"expression": "Happy",
+			"text": "What it do, big guy?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly_up"
+		},
+		{
+			"expression": "talk",
+			"text": "You taking your girlfriend out for shopping?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly_up"
+		},
+		{
+			"expression": "talk",
+			"text": "Bop beep bee.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I see, I getcha. Good shit.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly_up"
+		},
+		{
+			"expression": "Frown",
+			"text": "Y'know, you're no stranger to me/.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly_up"
+		},
+		{
+			"expression": "Frown",
+			"text": "I've seen you around here plenty of times.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly_up"
+		},
+		{
+			"expression": "talk",
+			"text": "And you've got a pretty slick voice, homie.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep beepity?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "A",
+			"text": "Hell yeah! You've got hella talent.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly"
+		},
+		{
+			"expression": "A",
+			"text": "Yo, you should drop a beat right now.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly"
+		},
+		{
+			"expression": "A",
+			"text": "I'm kinda feeling the flow.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly"
+		},
+		{
+			"expression": "excited",
+			"text": "Bop.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "A",
+			"text": "Dope. I've been dying to jam with you for\\nquite some time now.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly"
+		},
+		{
+			"expression": "B",
+			"text": "Let's get it...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sly"
+		}
+	]
+}

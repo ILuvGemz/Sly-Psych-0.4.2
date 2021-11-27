@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "A",
+			"text": "I'll admit, that was straight fire."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Damn, kinda drew in quite the crowd back there."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bee bop."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright little dude, shit's clearly getting \\n serious now."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "C",
+			"text": "*i can't embarras myself in front of all these people!*"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "C",
+			"text": "*my homies are here, they can't see me eff up like this*"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "C",
+			"text": "*especially that shorty on the speaker*"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "C",
+			"text": "*she a cutie*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beepity bop bo."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "O-Oh yeah yeah. I've been ready, man."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "A",
+			"text": "Lemme play a little something I've cooked up."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "Saved it for an encounter just like this."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bee beep bee."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Aight, let's go big guy."
+		}
+	]
+}

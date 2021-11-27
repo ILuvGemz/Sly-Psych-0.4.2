@@ -11,7 +11,7 @@
 			"speed": 0.03,
 			"portrait": "sly",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "A",
 			"text": "Damn, kinda drew in quite the crowd back there."
 		},
 		{
@@ -25,7 +25,7 @@
 			"speed": 0.03,
 			"portrait": "sly",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "A",
 			"text": "Alright little dude, shit's clearly getting \\n serious now."
 		},
 		{
@@ -67,7 +67,7 @@
 			"speed": 0.03,
 			"portrait": "sly",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "A",
 			"text": "O-Oh yeah yeah. I've been ready, man."
 		},
 		{
@@ -95,7 +95,7 @@
 			"speed": 0.03,
 			"portrait": "sly",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "A",
 			"text": "Aight, let's go big guy."
 		}
 	]

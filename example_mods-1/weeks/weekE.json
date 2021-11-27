@@ -1,0 +1,57 @@
+{
+	"storyName": "Extras",
+	"hideFreeplay": false,
+	"weekBackground": "SlyMall",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week3N",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"sly",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Demise",
+			"staticsly",
+			[
+				57,
+				83,
+				145
+			]
+		],
+		[
+			"Guns",
+			"sly",
+			[
+				57,
+				83,
+				145
+			]
+		],
+		[
+			"Quake Remix",
+			"sly",
+			[
+				57,
+				83,
+				145
+			]
+		],
+		[
+			"Slyception",
+			"nightmareroger",
+			[
+				57,
+				83,
+				145
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Extras"
+}

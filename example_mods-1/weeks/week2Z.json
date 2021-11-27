@@ -1,0 +1,39 @@
+{
+	"storyName": "Dreamatch",
+	"hideFreeplay": false,
+	"weekBackground": "drematch",
+	"weekBefore": "week1S",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"rematch",
+		""
+	],
+	"songs": [
+		[
+			"Rematch",
+			"slydream",
+			[
+				224,
+				224,
+				224
+			]
+		],
+		[
+			"Reality",
+			"staticslydream",
+			[
+				224,
+				224,
+				224
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Dreamatch"
+}

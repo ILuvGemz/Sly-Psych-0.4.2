@@ -1,9 +1,15 @@
-local allowCountdown = false
+
+local startDiag = false
 function onStartCountdown()
-	if not allowCountdown and isStoryMode and not seenCutscene then --Block the first countdown
+	if not startDiag and isStoryMode and not seenCutscene then
 		startVideo('Quake Cutscene');
-		allowCountdown = true;
+		startDiag = true;
+		return Function_Stop;
+	end
+	if startDiag and not seenCutscene and isStoryMode then
+		startDialogue('dialogue', 'sly3');
+		seenCutscene = true;
 		return Function_Stop;
 	end
 	return Function_Continue;
-end
+end  

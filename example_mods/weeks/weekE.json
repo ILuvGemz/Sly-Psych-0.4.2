@@ -2,18 +2,13 @@
 	"storyName": "Extras",
 	"hideFreeplay": false,
 	"weekBackground": "SlyMall",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "week3N",
-	"startUnlocked": false,
-	"weekCharacters": [
-		"sly",
-		"bf",
-		"gf"
-	],
+	"startUnlocked": true,
 	"songs": [
 		[
 			"Demise",
@@ -53,5 +48,10 @@
 		]
 	],
 	"hideStoryMode": true,
+	"weekCharacters": [
+		"sly",
+		"bf",
+		"gf"
+	],
 	"weekName": "Extras"
 }

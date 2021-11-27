@@ -7,8 +7,13 @@
 		113,
 		253
 	],
-	"weekBefore": "week2Z",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
 			"Nightmare",
@@ -21,10 +26,5 @@
 		]
 	],
 	"hideStoryMode": false,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
 	"weekName": "Nightmare"
 }

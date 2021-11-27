@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "A",
+			"text": "Yo! Big guy! Over here!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "A",
+			"text": "What it do, homie? You remember me, right?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "A",
+			"text": "Where have you been in the last age or two?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bee Bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "Yeah I get it. Girlfriend and stuff..."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "A",
+			"text": "What you lookin' for on this fine evening?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop beep beep bow"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "A",
+			"text": "Dope. I'm pretty damn thirsty myself."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "A",
+			"text": "You think you could grab me a Pepsi?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "Y'know, after the inevitable rap battle we're about to get into of course."
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Bep!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "A",
+			"text": "Sweeeet. I am dying of thirst, thank you homie."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "Ya might need one yourself after these bars I'm about to drop."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "A",
+			"text": "Let's just get right into it. Put my tape in."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "A",
+			"text": "Prepare yourself, little dude. I ain't slowing down."
+		}
+	]
+}

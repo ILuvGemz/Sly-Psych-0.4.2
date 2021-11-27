@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-249
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Roger Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-249
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Roger Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-236
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Roger Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-214
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Roger Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-247
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Roger Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NightmareRoger",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nightmareroger",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		240
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

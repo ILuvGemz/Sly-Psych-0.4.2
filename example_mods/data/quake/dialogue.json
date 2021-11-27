@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "You piss me off."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "Just a lil' bit."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No way you're keeping up with me now."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Too bad nobody's around to watch you choke."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "But it's chill. This is personal now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Bow wow bippity beep."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "C",
+			"text": ".    .    ."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "Nobody has dissed my hair cut and lived to tell the tale."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sly",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "And your puny ass would never even come close."
+		},
+		{
+			"speed": 0.02,
+			"portrait": "sly",
+			"boxState": "angry",
+			"expression": "B",
+			"text": "No more delay. Let's throw down, little dude."
+		}
+	]
+}

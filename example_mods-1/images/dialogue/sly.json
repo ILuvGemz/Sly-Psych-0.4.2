@@ -1,0 +1,50 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "dialogue_sly",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				100
+			],
+			"anim": "A",
+			"idle_offsets": [
+				0,
+				100
+			],
+			"loop_name": "dialogue_sky_A",
+			"idle_name": "dialogue_sky_A0004"
+		},
+		{
+			"loop_offsets": [
+				-5,
+				107
+			],
+			"anim": "B",
+			"idle_offsets": [
+				-5,
+				107
+			],
+			"loop_name": "dialogue_sky_B",
+			"idle_name": "dialogue_sky_B0004"
+		},
+		{
+			"loop_offsets": [
+				-20,
+				110
+			],
+			"anim": "C",
+			"idle_offsets": [
+				-20,
+				110
+			],
+			"loop_name": "dialogue_sky_C",
+			"idle_name": "dialogue_sky_C0004"
+		}
+	]
+}

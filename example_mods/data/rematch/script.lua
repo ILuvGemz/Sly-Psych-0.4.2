@@ -1,9 +1,15 @@
 local allowCountdown = false
+local startDiag = false
 function onStartCountdown()
-	if not allowCountdown and isStoryMode and not seenCutscene then --Block the first countdown
+	if not allowCountdown and not startDiag and isStoryMode and not seenCutscene then
 		startVideo('Dreamatch Opening');
+		startDiag = true;
+		return Function_Stop;
+	end
+	if startDiag and not allowCountdown then
+		startDialogue('dialogue', 'flyingboat');
 		allowCountdown = true;
 		return Function_Stop;
 	end
 	return Function_Continue;
-end
+end  

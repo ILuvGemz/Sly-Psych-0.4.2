@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-249
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Roger Idle"
+		},
+		{
+			"offsets": [
+				-11,
+				-249
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Roger Down"
+		},
+		{
+			"offsets": [
+				0,
+				-236
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Roger Left"
+		},
+		{
+			"offsets": [
+				2,
+				-214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Roger Up"
+		},
+		{
+			"offsets": [
+				-11,
+				-247
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Roger Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Roger",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "roger",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		105,
+		22
+	],
+	"camera_position": [
+		0,
+		240
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,30 @@
+{
+	"storyName": "Roger",
+	"hideFreeplay": true,
+	"weekBackground": "roger",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"roger",
+		""
+	],
+	"songs": [
+		[
+			"under",
+			"roger",
+			[
+				230,
+				139,
+				55
+			]
+		]
+	],
+	"weekName": "Roger"
+}
